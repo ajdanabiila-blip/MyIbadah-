@@ -1,0 +1,6 @@
+{
+  "name": "MyIbadah",
+  "description": "Academic Spirituality Platform for Universitas Muhammadiyah Yogyakarta (UMY) students to balance academic excellence with spiritual discipline. Features prayer times, class & mosque schedules, chats with clerics, digital infaq, and notification settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
